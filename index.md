@@ -58,6 +58,5 @@
 
 <!-- Asıl yazın -->
 <div class="main">
-  <h1>🎉 İyi ki doğdun! 🎉</h1>
-  <p>Bu sayfa sadece senin için hazırlandı 💯🎂✨</p>
+  <h1>🎉 💯🎉</h1>
 </div>
