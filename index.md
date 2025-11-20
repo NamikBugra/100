@@ -58,5 +58,5 @@
 
 <!-- Asıl yazın -->
 <div class="main">
-  <h1>🎉 💯🎉</h1>
+  <h1>💯</h1>
 </div>
