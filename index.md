@@ -1,4 +1,3 @@
-<h1>💯<h1>
 <style>
   body {
     overflow: hidden;
